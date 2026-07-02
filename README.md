@@ -1,5 +1,5 @@
 # Guilherme Marins
-![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=blue) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat&link=https://linkedin.com/in/gmarinss)](https://linkedin.com/in/gmarinss)
+![Visitor Count](https://komarev.com/ghpvc/?username=gmarins&color=blue) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat&link=https://linkedin.com/in/gmarinss)](https://linkedin.com/in/gmarinss)
 **Niterói, Rio de Janeiro, Brazil**
 
 **✉️ gmarins@id.uff.br**
@@ -8,20 +8,21 @@
 
 ## 👋 About Me
 
-I am a **Data Engineer** passionate about building reliable data pipelines and exploring the intersection of **Data Engineering** and **Large Language Models (LLMs)**. I enjoy designing systems that turn raw, messy data into something people can actually trust and use — and I'm equally excited about applying LLM-based agents to automate and enhance data workflows.
+I am a **Data Analyst** with a strong interest in turning raw data into clear, actionable insights. I enjoy working close to the business side — understanding problems, exploring data, and building analyses and dashboards that help people make better decisions.
 
-I'm currently focused on deepening my knowledge of data orchestration, RAG pipelines, and multi-agent systems, while working in fast-paced, large-scale corporate environments.
+At the same time, I have a growing passion for **Data Engineering**, and I'm actively building my skills in pipelines, orchestration, and LLM-based automation, with the goal of becoming a strong Data Engineer over time.
 
 ---
 
 ## 💼 Professional Experience
 
-**Data Engineer | Looqbox | Brazil**
+**Data Analyst | Looqbox | Brazil**
 *Jun 2026 – Present*
-- Development and maintenance of data pipelines in Python and SQL
-- Collaboration with cross-functional teams on requirements gathering and solution delivery
-- Applying Git-based version control and CI/CD best practices to data engineering solutions
-- Continuous learning and adoption of the company's data ecosystem tools, with a focus on quality, performance, and scalability
+- Analyzing data with SQL and Python to answer business questions and support decision-making
+- Building and maintaining dashboards and reports to track key metrics
+- Collaborating with cross-functional teams to gather requirements and translate them into clear analyses
+- Applying Git-based version control and CI/CD best practices to analytical workflows
+- Continuously learning the company's data ecosystem, with a focus on data quality and clear communication of insights
 
 **Data Engineer Intern | Michelin | Brazil**
 *Sep 2024 – Jun 2026*
