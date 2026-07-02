@@ -1,8 +1,8 @@
 <img width="501" height="401" alt="image" src="https://github.com/user-attachments/assets/0e14e882-3e3b-4768-8893-d93dc38dd4fc" />
 
-
 # Guilherme Marins
 ![Visitor Count](https://komarev.com/ghpvc/?username=gmarins&color=blue) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat&link=https://linkedin.com/in/gmarinss)](https://linkedin.com/in/gmarinss)
+
 **Niterói, Rio de Janeiro, Brazil**
 
 **✉️ gmarins@id.uff.br**
