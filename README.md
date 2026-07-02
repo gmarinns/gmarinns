@@ -55,20 +55,4 @@ I'm currently focused on deepening my knowledge of data orchestration, RAG pipel
 
 ---
 
-## 🛠️ Technical Skills
-
-**LLMs & Agents:** LangChain, OpenAI API, Anthropic API, RAG, single/multi-agent systems, prompt engineering
-**Orchestration:** Apache Airflow, dbt (basics), Databricks
-**Languages:** Python (pandas, NumPy, FastAPI), SQL
-**Cloud & DevOps:** GCP, Git/GitHub, Docker, CI/CD with GitHub Actions and GitLab
-**Databases:** PostgreSQL, MySQL, MongoDB, dimensional modeling
-
----
-
-## 🌐 Languages
-
-**English:** Fluent | **Spanish:** Intermediate | **French:** Basic
-
----
-
 Feel free to reach out to me via [email](mailto:gmarins@id.uff.br) or connect on [LinkedIn](https://linkedin.com/in/gmarinss).
